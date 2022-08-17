@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+
+}
+h2{
+    font-family: fantasy;
+    color: blue;
+    font-size: 35px
+
+}
+h2:hover{
+    color: rgb(0, 140, 255);
+    text-decoration: underline;
+    transition: .3s;
+    transform: skew(-35);
+
+}
